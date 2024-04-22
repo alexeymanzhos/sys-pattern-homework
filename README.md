@@ -23,8 +23,8 @@
 ---
 
 ### Задание 1
-![alt text](https://github.com/alexeymanzhos/sys_pattern_homework/blob/main/img/zabbix2-1.png)
-![alt text](https://github.com/alexeymanzhos/sys_pattern_homework/blob/main/img/zabbix2-1.2.png)
+![alt text](https://github.com/alexeymanzhos/sys_pattern_homework/blob/main/img/Zabbix2-1.png)
+![alt text](https://github.com/alexeymanzhos/sys_pattern_homework/blob/main/img/Zabbix2-1.2.png)
 
 
 
@@ -33,8 +33,8 @@
 ### Задание 2-3
 
 `Приведите ответ в свободной форме........`
-![alt text](https://github.com/alexeymanzhos/sys_pattern_homework/blob/main/img/zabbix2-3.png)
-![alt text](https://github.com/alexeymanzhos/sys_pattern_homework/blob/main/img/zabbix2-3.1.png)
+![alt text](https://github.com/alexeymanzhos/sys_pattern_homework/blob/main/img/Zabbix2-3.png)
+![alt text](https://github.com/alexeymanzhos/sys_pattern_homework/blob/main/img/Zabbix2-3.1.png)
 
 
 
@@ -43,4 +43,4 @@
 ### Задание 4
 
 `Приведите ответ в свободной форме........`
-![alt text](https://github.com/alexeymanzhos/sys_pattern_homework/blob/main/img/zabbix4-1.png)
+![alt text](https://github.com/alexeymanzhos/sys_pattern_homework/blob/main/img/Zabbix4-1.png)
